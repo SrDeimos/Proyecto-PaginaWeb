@@ -1,0 +1,47 @@
+
+   .first-box {
+    width:340px; 
+    float:left; 
+    height: 660px;
+    margin: 10px;
+  }
+
+ .second-box {
+  width:340px; 
+  float:left; 
+  height: 660px;
+  margin: 5px;
+  }
+  .third-box {
+    width:340px; 
+    height: 660px;
+    float: right; 
+    margin: 5px;
+  }
+
+  .four-box {
+    width:340px; 
+    height: 660px;
+    float: right; 
+    margin: 10px;
+  }
+
+  #pboton {
+    width: 140px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    top:93%;
+    left:45%;
+    position: absolute;
+  }
+
+  #traductor {
+    width: 140px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    top:93%;
+    left:85%;
+    position: absolute;
+  }

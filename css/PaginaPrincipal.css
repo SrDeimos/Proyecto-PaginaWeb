@@ -1,0 +1,53 @@
+#sboton {
+    width: 140px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    top:55%;
+    left:45%;
+    position: absolute;
+  }
+
+  #tboton {
+    width: 140px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    top:55%;
+    left:64%;
+    position: absolute;
+  }
+
+  #pboton {
+    width: 140px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    top:55%;
+    left:26%;
+    position: absolute;
+  }
+
+  .div1{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    position: static;
+  }
+
+  .div2{
+    top:39%;
+    margin-top: -1.5cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: static;
+  }
+
+  .div3{
+    margin-top: -2cm;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    position: static;
+  }

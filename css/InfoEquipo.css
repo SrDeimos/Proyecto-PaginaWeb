@@ -1,0 +1,43 @@
+
+   .first-box {
+    width:267px; 
+    float:left; 
+    height: 660px;
+    margin: 10px;
+  }
+
+ .second-box {
+  width:267px; 
+  float:left; 
+  height: 660px;
+  margin: 5px;
+  }
+  .third-box {
+    width:267px; 
+    height: 660px;
+    float: right; 
+    margin: 5px;
+  }
+
+  .four-box {
+    width:275px; 
+    height: 660px;
+    float: right; 
+    margin: 10px;
+  }
+  .five-box {
+    width:267px; 
+    height: 660px;
+    float: left; 
+    margin: 10px;
+  }
+
+  #pboton {
+    width: 140px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    top:93%;
+    left:45%;
+    position: absolute;
+  }
