@@ -1,26 +1,26 @@
 
    .first-box {
-    width:340px; 
+    width:320px; 
     float:left; 
     height: 350px   ;
     margin: 10px;
   }
 
  .second-box {
-  width:340px; 
+  width:320px; 
   float:left; 
   height: 350px;
   margin: 5px;
   }
   .third-box {
-    width:340px; 
+    width:320px; 
     height: 350px;
     float: right; 
     margin: 5px;
   }
 
   .four-box {
-    width:340px; 
+    width:320px; 
     height: 350px;
     float: right; 
     margin: 10px;
@@ -31,7 +31,7 @@
     font-size: 20px;
     padding: 3px;
     border-radius: 5px;
-    top: 55%;
+    top: 65%;
     left:45%;
     position: absolute;
   }
